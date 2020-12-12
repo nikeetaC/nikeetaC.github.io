@@ -1,5 +1,5 @@
 (() => {
-  // ns-hugo:/BioVolume/My-website/nikeetac/themes/github.com/wowchemy/wowchemy-hugo-modules/wowchemy/assets/js/wowchemy-theming.js
+  // themes/github.com/wowchemy/wowchemy-hugo-modules/wowchemy/assets/js/wowchemy-theming.js
   function getThemeMode() {
     return parseInt(localStorage.getItem("wcTheme") || 2);
   }
@@ -36,7 +36,7 @@
     }
   }
 
-  // ns-params:@params
+  // params:@params
   var wcDarkLightEnabled = true;
   var wcIsSiteThemeDark = false;
 
