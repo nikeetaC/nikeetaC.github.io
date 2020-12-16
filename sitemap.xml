@@ -138,11 +138,19 @@
   </url>
   
   <url>
+    <loc>/achievements/</loc>
+  </url>
+  
+  <url>
     <loc>/categories/</loc>
   </url>
   
   <url>
     <loc>/post/</loc>
+  </url>
+  
+  <url>
+    <loc>/projects/</loc>
   </url>
   
   <url>
